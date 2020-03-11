@@ -29,12 +29,14 @@
 - [ ] 第III部分 表格型深入研究
 
 学习笔记目录（所有的`.ipynb`链接已转换到`nbviewer.jupyter.org/github/`）：
+
+##### 第I部分 表格型求解方法
+
 - 摇臂赌博机：
 - - 实例代码：[01-Stochastic-Multi-Armed-Bandit.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/01-Stochastic-Multi-Armed-Bandit.ipynb)
-- - 数学公式的讨论：[梯度赌博机算法中，偏好函数更新：梯度上升公式是精确梯度上升的随机近似的证明.md](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/mathematics/梯度赌博机算法中，偏好函数更新：梯度上升公式是精确梯度上升的随机近似的证明.md)
+- - 数学公式的讨论：[梯度赌博机算法中，偏好函数更新：梯度上升公式是精确梯度上升的随机近似的证明.md](./mathematics/梯度赌博机算法中，偏好函数更新：梯度上升公式是精确梯度上升的随机近似的证明.md)
 - 马尔科夫链与贝尔曼方程：
 - - 实例：[02-MDP-and-Bellman-Equation.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/02-MDP-and-Bellman-Equation.ipynb)
-- - 数学概念的讨论：[梯度赌博机算法中，偏好函数更新：梯度上升公式是精确梯度上升的随机近似的证明.md](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/mathematics/梯度赌博机算法中，偏好函数更新：梯度上升公式是精确梯度上升的随机近似的证明.md)
 - 动态规划：
 - - 实例1：[./practice/03-01-Grid-World.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/03-01-Grid-World.ipynb)
 - - 实例2：[./practice/03-02-Policy-Iteration.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/03-02-Policy-Iteration.ipynb)
@@ -49,6 +51,15 @@
 - - Dyna-Q 与 优先遍历实例：[./practice/07-01-Maze-Problem-with-DynaQ-and-Priority.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/07-01-Maze-Problem-with-DynaQ-and-Priority.ipynb)
 - - 期望估计与采用估计：[./practice/07-02-Expectation-vs-Sample.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/07-02-Expectation-vs-Sample.ipynb)
 - - 轨迹采样：[./practice/07-03-Trajectory-Sampling.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/07-03-Trajectory-Sampling.ipynb)
+
+##### 第II部分 表格型近似求解方法
+
+- 第9章：基于函数逼近的同轨策略预测：
+- - 心得：[第9章：基于函数逼近的同轨策略预测.md](./mathematics/第9章：基于函数逼近的同轨策略预测.md)
+- - 实例（随机游走与粗编码大小）：[./practice/On-policy-Prediction-with-Approximation.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/On-policy-Prediction-with-Approximation.ipynb)
+- 第10章：基于函数逼近的同轨策略控制:
+- - 心得：[第10章：基于函数逼近的同轨策略控制.md](./mathematics/第10章：基于函数逼近的同轨策略控制.md)
+- - 实例（n步Sarsa控制与平均收益实例）：[./practice/Mountain-Car-Acess-Control.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/Mountain-Car-Acess-Control.ipynb)
 
 **** 
 
