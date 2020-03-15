@@ -60,6 +60,9 @@
 - 第10章：基于函数逼近的同轨策略控制:
 - - 心得：[第10章：基于函数逼近的同轨策略控制.md](./mathematics/第10章：基于函数逼近的同轨策略控制.md)
 - - 实例（n步Sarsa控制与平均收益实例）：[./practice/Mountain-Car-Acess-Control.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/Mountain-Car-Acess-Control.ipynb)
+- 第11章：基于函数逼近的离轨策略方法：
+- - 心得：[第11章：基于函数逼近的离轨策略方法.md](./mathematics/第11章：基于函数逼近的离轨策略方法.md)
+- - 实例：[./practice/Counterexample.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/Counterexample.ipynb)
 
 **** 
 
