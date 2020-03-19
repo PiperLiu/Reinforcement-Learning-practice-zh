@@ -63,6 +63,9 @@
 - 第11章：基于函数逼近的离轨策略方法：
 - - 心得：[第11章：基于函数逼近的离轨策略方法.md](./mathematics/第11章：基于函数逼近的离轨策略方法.md)
 - - 实例：[./practice/Counterexample.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/Counterexample.ipynb)
+- 第12章：资格迹：
+- - 心得：[第12章：资格迹.md](./mathematics/第12章：资格迹.md)
+- - 实例:[./practice/Random-Walk-Mountain-Car.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/Random-Walk-Mountain-Car.ipynb)
 
 **** 
 
