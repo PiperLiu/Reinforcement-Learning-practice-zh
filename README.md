@@ -25,7 +25,7 @@
 目前已完成：
 
 - [x] 第I部分 表格型求解方法 [学习总结 link](./mathematics/表格型方法总结.md)
-- [ ] 第II部分 表格型近似求解方法
+- [x] 第II部分 表格型近似求解方法
 - [ ] 第III部分 表格型深入研究
 
 学习笔记目录（所有的`.ipynb`链接已转换到`nbviewer.jupyter.org/github/`）：
@@ -66,6 +66,9 @@
 - 第12章：资格迹：
 - - 心得：[第12章：资格迹.md](./mathematics/第12章：资格迹.md)
 - - 实例:[./practice/Random-Walk-Mountain-Car.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/Random-Walk-Mountain-Car.ipynb)
+- 第13章：策略梯度方法
+- - 心得：[第13章：策略梯度方法.md](./mathematics/第13章：策略梯度方法.md)
+- - 实例：[./practice/Short-Corridor.ipynb](https://nbviewer.jupyter.org/github/PiperLiu/Reinforcement-Learning-practice-zh/blob/master/practice/Short-Corridor.ipynb)
 
 **** 
 
