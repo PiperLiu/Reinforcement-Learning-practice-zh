@@ -4,9 +4,13 @@
 
 ****
 
-### 正在进行的学习内容与计划中的内容
+### 我的笔记分布
+- 🥊 入门学习 / 读书笔记 [GitHub链接：PiperLiu/Reinforcement-Learning-practice-zh](https://github.com/PiperLiu/Reinforcement-Learning-practice-zh)
+- 💻 阅读论文 / 视频课程的笔记 [GitHub链接：PiperLiu/introRL](https://github.com/PiperLiu/introRL)
+- ✨ 大小算法 / 练手操场 [GitHub链接：PiperLiu/Approachable-Reinforcement-Learning](https://github.com/PiperLiu/Approachable-Reinforcement-Learning)
 
-- [ ] 强化学习圣经的第一遍学习 [[details]](#对强化学习圣经的第一遍学习)
+### 正在进行的学习内容与计划中的内容
+- [X] 强化学习圣经的第一遍学习 [[details]](#对强化学习圣经的第一遍学习)
 - [ ] Deep Reinforcement Learning 的第一遍阅读 [[details]](#深度强化学习第一遍阅读)
 - [ ] Approximate Dynamic Programming 的第一遍阅读 [[details]](#近似动态规划的第一遍阅读)
 
@@ -24,9 +28,9 @@
 
 目前已完成：
 
-- [x] 第I部分 表格型求解方法 [学习总结 link](./mathematics/表格型方法总结.md)
-- [x] 第II部分 表格型近似求解方法
-- [ ] 第III部分 表格型深入研究
+- [X] 第I部分 表格型求解方法 [学习总结 link](./mathematics/表格型方法总结.md)
+- [X] 第II部分 表格型近似求解方法
+- [X] 第III部分 表格型深入研究
 
 学习笔记目录（所有的`.ipynb`链接已转换到`nbviewer.jupyter.org/github/`）：
 
